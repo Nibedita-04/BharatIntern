@@ -4,8 +4,6 @@ padding : 0%;
 margin : 0%;
 box-sizing : border-box;
 }
-/*font-family: 'Poppins', sans-serif;
-/*font-family: 'Kalam', cursive;*/
 
 header{
     width: 100%;
@@ -231,4 +229,10 @@ footer{
     padding: 0.5rem;
     font-family: 'Kalam', cursive;
     text-align: center;
+}
+
+.heading{
+    font-family: 'Kalam', cursive;
+    color: black;
+    font-size: 5em;
 }
